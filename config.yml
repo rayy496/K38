@@ -1,0 +1,426 @@
+meta:
+  engine: 4.2.1
+
+  version: 4.2.1
+
+  author: Ray Yamada
+# U is a predefined unit of measure that means 19.05mm, which is MX spacing (u is 19.00mm)
+units:
+  $default_spread: 'U'
+  $default_padding: 'U'
+  $default_height: 18.5
+  $default_width: 18.5
+
+points:
+  zones:
+    matrix:
+      anchor:
+        shift: [80, -150]
+      columns:
+        c1:
+          key:
+            column_net: P2
+        c2:
+          key:
+            stagger: 0.4U
+            column_net: P3
+        c3:
+          key:
+            stagger: 0.2U
+            column_net: P4
+        c4:
+          key:
+            stagger: -0.2U
+            column_net: P5
+        c5:
+          key:
+            stagger: -0.2U
+            column_net: P6
+      rows:
+        r1:
+          row_net: P8
+        r2:
+          row_net: P9
+        r3:
+          row_net: P10
+
+    thumb:
+      anchor:
+        ref: matrix_c1_r1
+        shift: [2.2U, -U]
+      columns:
+        t1:
+          key:
+            column_net: P3
+        t2:
+          key:
+            spread: U
+            splay: -5
+            origin: [-0.5U, -0.5U]
+            column_net: P4
+        t3:
+          key:
+            spread: U
+            splay: -10
+            origin: [-0.5U, -0.5U]
+            column_net: P5
+        t4:
+          key:
+            spread: U
+            splay: -10
+            origin: [-0.5U, -0.5U]
+            column_net: P6
+      rows:
+        r:
+          row_net: P7
+  mirror:
+    ref: matrix_c5_r3
+    distance: 100
+
+outlines:
+  switches:
+    - what: rectangle
+      where: true
+      size: 15
+    
+  board_left:
+    - what: polygon
+      points:
+        - ref: thumb_t1_r
+          shift: [-0.5U, -0.5U]
+        - ref: thumb_t2_r
+          shift: [-0.5U, -0.5U]
+        - ref: thumb_t3_r
+          shift: [-0.5U, -0.5U]
+        - ref: thumb_t4_r
+          shift: [-0.5U, -0.5U]
+        - ref: thumb_t4_r
+          shift: [0.5U, -0.5U]
+        - ref: thumb_t4_r
+          shift: [0.5U, 0.5U]
+        - ref: thumb_t4_r
+          shift: [0, 0.5U]
+        - ref: matrix_c5_r1
+          shift: [1.5U, -1.2U]
+        - ref: matrix_c5_r1
+          shift: [1.5U, 0.5U]
+        - ref: matrix_c5_r1
+          shift: [0.5U, 0.5U]
+        - ref: matrix_c5_r3
+          shift: [0.5U, 0.5U]
+        - ref: matrix_c5_r3
+          shift: [-0.5U, 0.5U]
+        - ref: matrix_c4_r3
+          shift: [0.5U, 0.5U]
+        - ref: matrix_c4_r3
+          shift: [-0.5U, 0.5U]
+        - ref: matrix_c3_r3
+          shift: [0.5U, 0.5U]
+        - ref: matrix_c3_r3
+          shift: [-0.5U, 0.5U]
+        - ref: matrix_c2_r3
+          shift: [0.5U, 0.5U]
+        - ref: matrix_c2_r3
+          shift: [-0.5U, 0.5U]
+        - ref: matrix_c1_r3
+          shift: [0.5U, 0.5U]
+        - ref: matrix_c1_r3
+          shift: [-0.5U, 0.5U]
+        - ref: matrix_c1_r1
+          shift: [-0.5U, -0.5U]
+        - ref: thumb_t1_r
+          shift: [-0.5U, 0.5U]
+      expand: 2
+      fillet: 1
+  for_case_left:
+    - what: outline
+      name: board_left
+      expand: 2
+      fillet: 1
+
+  board_right:
+    - what: polygon
+      points:
+        - ref: mirror_thumb_t1_r
+          shift: [-0.5U, -0.5U]
+        - ref: mirror_thumb_t2_r
+          shift: [-0.5U, -0.5U]
+        - ref: mirror_thumb_t3_r
+          shift: [-0.5U, -0.5U]
+        - ref: mirror_thumb_t4_r
+          shift: [-0.5U, -0.5U]
+        - ref: mirror_thumb_t4_r
+          shift: [0.5U, -0.5U]
+        - ref: mirror_thumb_t4_r
+          shift: [0.5U, 0.5U]
+        - ref: mirror_thumb_t4_r
+          shift: [0, 0.5U]
+        - ref: mirror_matrix_c5_r1
+          shift: [1.5U, -1.2U]
+        - ref: mirror_matrix_c5_r1
+          shift: [1.5U, 0.5U]
+        - ref: mirror_matrix_c5_r1
+          shift: [0.5U, 0.5U]
+        - ref: mirror_matrix_c5_r3
+          shift: [0.5U, 0.5U]
+        - ref: mirror_matrix_c5_r3
+          shift: [-0.5U, 0.5U]
+        - ref: mirror_matrix_c4_r3
+          shift: [0.5U, 0.5U]
+        - ref: mirror_matrix_c4_r3
+          shift: [-0.5U, 0.5U]
+        - ref: mirror_matrix_c3_r3
+          shift: [0.5U, 0.5U]
+        - ref: mirror_matrix_c3_r3
+          shift: [-0.5U, 0.5U]
+        - ref: mirror_matrix_c2_r3
+          shift: [0.5U, 0.5U]
+        - ref: mirror_matrix_c2_r3
+          shift: [-0.5U, 0.5U]
+        - ref: mirror_matrix_c1_r3
+          shift: [0.5U, 0.5U]
+        - ref: mirror_matrix_c1_r3
+          shift: [-0.5U, 0.5U]
+        - ref: mirror_matrix_c1_r1
+          shift: [-0.5U, -0.5U]
+        - ref: mirror_thumb_t1_r
+          shift: [-0.5U, 0.5U]
+      expand: 2
+      fillet: 1
+  for_case_right:
+    - what: outline
+      name: board_right
+      expand: 2
+      fillet: 1
+      
+  cutout:
+    - what: outline
+      name: board_left
+      operation: stack
+    - what: outline
+      name: board_right
+      operation: stack
+    - what: outline
+      name: switches
+      operation: stack
+    - what: outline
+      name: for_case_left
+      operation: stack
+    - what: outline
+      name: for_case_right
+      operation: stack
+
+cases:
+  case_left:
+    - what: outline
+      name: for_case_left
+
+  case_right:
+    - what: outline
+      name: for_case_right
+
+pcbs:
+  pcb_left:
+    outlines:
+      - outline: board_left
+    footprints:
+      # Keyswitches
+      mx_hotswap_matrix:
+        what: mx
+        where: /^matrix_.*/
+        params:
+          keycaps: false
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      mx_hotswap_thumb:
+        what: mx
+        where: /^thumb_.*/
+        params:
+          keycaps: false
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"          
+      # Battery on/off switch
+      battery_switch:
+        what: slider
+        where:
+            ref: matrix_c5_r1
+            shift: [28.5 , -15]
+            rotate: -90
+        params:
+            side: B
+            from: pos
+            to: RAW
+      # Diode
+      diode_matrix:
+        what: diode
+        where: /^matrix_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [7, -2]
+          rotate: 90
+      diode_thumb:
+        what: diode
+        where: /^thumb_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [7, -2]
+          rotate: 90
+      # Micro controller
+      xiao:
+        what: xiao-ble
+        where:
+          ref: matrix_c5_r1
+          shift: [20, -1]
+        params:
+          orientation: 'up'
+        adjust:
+          rotate: -90
+      # Battery jack
+      jstph:
+        what: jstph
+        where:
+          ref: matrix_c5_r1
+          shift: [22, -15]
+          rotate: -90
+        params:
+            side: B
+            pos: pos
+            neg: GND
+      # Mounting holes
+      hole_bottom_left:
+        what: mountinghole
+        where:
+          ref: matrix_c1_r1
+          shift: [0, 9.5]
+      hole_top_left:
+        what: mountinghole
+        where:
+          ref: matrix_c2_r2
+          shift: [0, 9.5]
+      hole_bottom_right:
+        what: mountinghole
+        where:
+          ref: matrix_c4_r1
+          shift: [0, -9.5]
+      hole_top_right:
+        what: mountinghole
+        where:
+          ref: matrix_c5_r2
+          shift: [0, 9.5]
+      hole_bottom:
+        what: mountinghole
+        where:
+          ref: thumb_t3_r
+          shift: [10, 4]
+    template: kicad8
+
+  pcb_right:
+    outlines:
+      - outline: board_right
+    footprints:
+      # Keyswitches
+      mx_hotswap_matrix:
+        what: mx
+        where: /^mirror_matrix_.*/
+        params:
+          keycaps: false
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+
+      mx_hotswap_thumb:
+        what: mx
+        where: /^mirror_thumb_.*/
+        params:
+          keycaps: false
+          reverse: false
+          hotswap: true
+          from: "{{column_net}}"
+          to: "{{colrow}}"
+      # Battery on/off switch
+      battery_switch:
+        what: slider
+        where:
+            ref: mirror_matrix_c5_r1
+            shift: [28.5 , -15]
+            rotate: -90
+        params:
+            side: B
+            from: pos
+            to: RAW
+      # Diode
+      diode_matrix:
+        what: diode
+        where: /^mirror_matrix_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [-7, -2]
+          rotate: -90
+      diode_thumb:
+        what: diode
+        where: /^mirror_thumb_.*/
+        params:
+          from: "{{colrow}}"
+          to: "{{row_net}}"
+        adjust:
+          shift: [-7, -2]
+          rotate: -90
+      # Micro controller
+      xiao:
+        what: xiao-ble
+        where:
+          ref: mirror_matrix_c5_r1
+          shift: [20, -1]
+        params:
+          orientation: 'up'
+        adjust:
+          rotate: -90
+      # Battery jack
+      jstph:
+        what: jstph
+        where:
+          ref: mirror_matrix_c5_r1
+          shift: [22, -15]
+          rotate: -90
+        params:
+            side: B
+            pos: pos
+            neg: GND
+      # Mounting holes
+      hole_bottom_left:
+        what: mountinghole
+        where:
+          ref: mirror_matrix_c1_r1
+          shift: [0, 9.5]
+      hole_top_left:
+        what: mountinghole
+        where:
+          ref: mirror_matrix_c2_r2
+          shift: [0, 9.5]
+      hole_bottom_right:
+        what: mountinghole
+        where:
+          ref: mirror_matrix_c4_r1
+          shift: [0, -9.5]
+      hole_top_right:
+        what: mountinghole
+        where:
+          ref: mirror_matrix_c5_r2
+          shift: [0, 9.5]
+      hole_bottom:
+        what: mountinghole
+        where:
+          ref: mirror_thumb_t3_r
+          shift: [11, 4]
+    template: kicad8

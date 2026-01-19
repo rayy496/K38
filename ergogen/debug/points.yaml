@@ -1,0 +1,3908 @@
+{
+  "matrix_c1_r1": {
+    "x": 80,
+    "y": -150,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c1_r1",
+      "name": "matrix_c1_r1",
+      "column_net": "P2",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "column_net": "P2"
+        },
+        "rows": {},
+        "name": "c1"
+      },
+      "row": "r1",
+      "mirrored": false,
+      "bind": [
+        10,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "matrix_c1_r2": {
+    "x": 80,
+    "y": -130.95,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c1_r2",
+      "name": "matrix_c1_r2",
+      "column_net": "P2",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "column_net": "P2"
+        },
+        "rows": {},
+        "name": "c1"
+      },
+      "row": "r2",
+      "mirrored": false,
+      "bind": [
+        10,
+        10,
+        10,
+        0
+      ]
+    }
+  },
+  "matrix_c1_r3": {
+    "x": 80,
+    "y": -111.89999999999999,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c1_r3",
+      "name": "matrix_c1_r3",
+      "column_net": "P2",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "column_net": "P2"
+        },
+        "rows": {},
+        "name": "c1"
+      },
+      "row": "r3",
+      "mirrored": false,
+      "bind": [
+        0,
+        10,
+        10,
+        0
+      ]
+    }
+  },
+  "matrix_c2_r1": {
+    "x": 99.05,
+    "y": -142.38,
+    "r": 0,
+    "meta": {
+      "stagger": 7.620000000000001,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c2_r1",
+      "name": "matrix_c2_r1",
+      "column_net": "P3",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.4U",
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "c2"
+      },
+      "row": "r1",
+      "mirrored": false,
+      "bind": [
+        10,
+        0,
+        0,
+        10
+      ]
+    }
+  },
+  "matrix_c2_r2": {
+    "x": 99.05,
+    "y": -123.33,
+    "r": 0,
+    "meta": {
+      "stagger": 7.620000000000001,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c2_r2",
+      "name": "matrix_c2_r2",
+      "column_net": "P3",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.4U",
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "c2"
+      },
+      "row": "r2",
+      "mirrored": false,
+      "bind": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  "matrix_c2_r3": {
+    "x": 99.05,
+    "y": -104.28,
+    "r": 0,
+    "meta": {
+      "stagger": 7.620000000000001,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c2_r3",
+      "name": "matrix_c2_r3",
+      "column_net": "P3",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.4U",
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "c2"
+      },
+      "row": "r3",
+      "mirrored": false,
+      "bind": [
+        0,
+        10,
+        10,
+        0
+      ]
+    }
+  },
+  "matrix_c3_r1": {
+    "x": 118.1,
+    "y": -138.57,
+    "r": 0,
+    "meta": {
+      "stagger": 3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c3_r1",
+      "name": "matrix_c3_r1",
+      "column_net": "P4",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.2U",
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "c3"
+      },
+      "row": "r1",
+      "mirrored": false,
+      "bind": [
+        10,
+        10,
+        0,
+        10
+      ]
+    }
+  },
+  "matrix_c3_r2": {
+    "x": 118.1,
+    "y": -119.52,
+    "r": 0,
+    "meta": {
+      "stagger": 3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c3_r2",
+      "name": "matrix_c3_r2",
+      "column_net": "P4",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.2U",
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "c3"
+      },
+      "row": "r2",
+      "mirrored": false,
+      "bind": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  "matrix_c3_r3": {
+    "x": 118.1,
+    "y": -100.47,
+    "r": 0,
+    "meta": {
+      "stagger": 3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c3_r3",
+      "name": "matrix_c3_r3",
+      "column_net": "P4",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.2U",
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "c3"
+      },
+      "row": "r3",
+      "mirrored": false,
+      "bind": [
+        0,
+        0,
+        10,
+        0
+      ]
+    }
+  },
+  "matrix_c4_r1": {
+    "x": 137.15,
+    "y": -142.38,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c4_r1",
+      "name": "matrix_c4_r1",
+      "column_net": "P5",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "c4"
+      },
+      "row": "r1",
+      "mirrored": false,
+      "bind": [
+        10,
+        10,
+        0,
+        0
+      ]
+    }
+  },
+  "matrix_c4_r2": {
+    "x": 137.15,
+    "y": -123.33,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c4_r2",
+      "name": "matrix_c4_r2",
+      "column_net": "P5",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "c4"
+      },
+      "row": "r2",
+      "mirrored": false,
+      "bind": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  "matrix_c4_r3": {
+    "x": 137.15,
+    "y": -104.28,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c4_r3",
+      "name": "matrix_c4_r3",
+      "column_net": "P5",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "c4"
+      },
+      "row": "r3",
+      "mirrored": false,
+      "bind": [
+        0,
+        0,
+        10,
+        10
+      ]
+    }
+  },
+  "matrix_c5_r1": {
+    "x": 156.2,
+    "y": -146.19,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c5_r1",
+      "name": "matrix_c5_r1",
+      "column_net": "P6",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "c5"
+      },
+      "row": "r1",
+      "mirrored": false,
+      "bind": [
+        10,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "matrix_c5_r2": {
+    "x": 156.2,
+    "y": -127.14,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c5_r2",
+      "name": "matrix_c5_r2",
+      "column_net": "P6",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "c5"
+      },
+      "row": "r2",
+      "mirrored": false,
+      "bind": [
+        10,
+        0,
+        10,
+        10
+      ]
+    }
+  },
+  "matrix_c5_r3": {
+    "x": 156.2,
+    "y": -108.09,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "c5_r3",
+      "name": "matrix_c5_r3",
+      "column_net": "P6",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "c5"
+      },
+      "row": "r3",
+      "mirrored": false,
+      "bind": [
+        0,
+        0,
+        10,
+        10
+      ]
+    }
+  },
+  "thumb_t1_r": {
+    "x": 121.91,
+    "y": -169.05,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "t1_r",
+      "name": "thumb_t1_r",
+      "column_net": "P3",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "t1"
+      },
+      "row": "r",
+      "mirrored": false,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "thumb_t2_r": {
+    "x": 141.7539129,
+    "y": -169.91640400000003,
+    "r": -5,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": -5,
+      "origin": [
+        -9.525,
+        -9.525
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "t2_r",
+      "name": "thumb_t2_r",
+      "column_net": "P4",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "spread": "U",
+          "splay": -5,
+          "origin": [
+            "-0.5U",
+            "-0.5U"
+          ],
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "t2"
+      },
+      "row": "r",
+      "mirrored": false,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "thumb_t3_r": {
+    "x": 162.0782039,
+    "y": -173.5001248,
+    "r": -15,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": -10,
+      "origin": [
+        -9.525,
+        -9.525
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "t3_r",
+      "name": "thumb_t3_r",
+      "column_net": "P5",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "spread": "U",
+          "splay": -10,
+          "origin": [
+            "-0.5U",
+            "-0.5U"
+          ],
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "t3"
+      },
+      "row": "r",
+      "mirrored": false,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "thumb_t4_r": {
+    "x": 181.4714166,
+    "y": -180.55867700000002,
+    "r": -25,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": -10,
+      "origin": [
+        -9.525,
+        -9.525
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "t4_r",
+      "name": "thumb_t4_r",
+      "column_net": "P6",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "spread": "U",
+          "splay": -10,
+          "origin": [
+            "-0.5U",
+            "-0.5U"
+          ],
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "t4"
+      },
+      "row": "r",
+      "mirrored": false,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c1_r1": {
+    "x": 332.4,
+    "y": -150,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c1_r1",
+      "name": "mirror_matrix_c1_r1",
+      "column_net": "P2",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "column_net": "P2"
+        },
+        "rows": {},
+        "name": "c1"
+      },
+      "row": "r1",
+      "mirrored": true,
+      "bind": [
+        10,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c1_r2": {
+    "x": 332.4,
+    "y": -130.95,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c1_r2",
+      "name": "mirror_matrix_c1_r2",
+      "column_net": "P2",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "column_net": "P2"
+        },
+        "rows": {},
+        "name": "c1"
+      },
+      "row": "r2",
+      "mirrored": true,
+      "bind": [
+        10,
+        10,
+        10,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c1_r3": {
+    "x": 332.4,
+    "y": -111.89999999999999,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c1_r3",
+      "name": "mirror_matrix_c1_r3",
+      "column_net": "P2",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "column_net": "P2"
+        },
+        "rows": {},
+        "name": "c1"
+      },
+      "row": "r3",
+      "mirrored": true,
+      "bind": [
+        0,
+        10,
+        10,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c2_r1": {
+    "x": 313.34999999999997,
+    "y": -142.38,
+    "r": 0,
+    "meta": {
+      "stagger": 7.620000000000001,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c2_r1",
+      "name": "mirror_matrix_c2_r1",
+      "column_net": "P3",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.4U",
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "c2"
+      },
+      "row": "r1",
+      "mirrored": true,
+      "bind": [
+        10,
+        0,
+        0,
+        10
+      ]
+    }
+  },
+  "mirror_matrix_c2_r2": {
+    "x": 313.34999999999997,
+    "y": -123.33,
+    "r": 0,
+    "meta": {
+      "stagger": 7.620000000000001,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c2_r2",
+      "name": "mirror_matrix_c2_r2",
+      "column_net": "P3",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.4U",
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "c2"
+      },
+      "row": "r2",
+      "mirrored": true,
+      "bind": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  "mirror_matrix_c2_r3": {
+    "x": 313.34999999999997,
+    "y": -104.28,
+    "r": 0,
+    "meta": {
+      "stagger": 7.620000000000001,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c2_r3",
+      "name": "mirror_matrix_c2_r3",
+      "column_net": "P3",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.4U",
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "c2"
+      },
+      "row": "r3",
+      "mirrored": true,
+      "bind": [
+        0,
+        10,
+        10,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c3_r1": {
+    "x": 294.29999999999995,
+    "y": -138.57,
+    "r": 0,
+    "meta": {
+      "stagger": 3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c3_r1",
+      "name": "mirror_matrix_c3_r1",
+      "column_net": "P4",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.2U",
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "c3"
+      },
+      "row": "r1",
+      "mirrored": true,
+      "bind": [
+        10,
+        10,
+        0,
+        10
+      ]
+    }
+  },
+  "mirror_matrix_c3_r2": {
+    "x": 294.29999999999995,
+    "y": -119.52,
+    "r": 0,
+    "meta": {
+      "stagger": 3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c3_r2",
+      "name": "mirror_matrix_c3_r2",
+      "column_net": "P4",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.2U",
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "c3"
+      },
+      "row": "r2",
+      "mirrored": true,
+      "bind": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  "mirror_matrix_c3_r3": {
+    "x": 294.29999999999995,
+    "y": -100.47,
+    "r": 0,
+    "meta": {
+      "stagger": 3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c3_r3",
+      "name": "mirror_matrix_c3_r3",
+      "column_net": "P4",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "0.2U",
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "c3"
+      },
+      "row": "r3",
+      "mirrored": true,
+      "bind": [
+        0,
+        0,
+        10,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c4_r1": {
+    "x": 275.25,
+    "y": -142.38,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c4_r1",
+      "name": "mirror_matrix_c4_r1",
+      "column_net": "P5",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "c4"
+      },
+      "row": "r1",
+      "mirrored": true,
+      "bind": [
+        10,
+        10,
+        0,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c4_r2": {
+    "x": 275.25,
+    "y": -123.33,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c4_r2",
+      "name": "mirror_matrix_c4_r2",
+      "column_net": "P5",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "c4"
+      },
+      "row": "r2",
+      "mirrored": true,
+      "bind": [
+        10,
+        10,
+        10,
+        10
+      ]
+    }
+  },
+  "mirror_matrix_c4_r3": {
+    "x": 275.25,
+    "y": -104.28,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c4_r3",
+      "name": "mirror_matrix_c4_r3",
+      "column_net": "P5",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "c4"
+      },
+      "row": "r3",
+      "mirrored": true,
+      "bind": [
+        0,
+        0,
+        10,
+        10
+      ]
+    }
+  },
+  "mirror_matrix_c5_r1": {
+    "x": 256.2,
+    "y": -146.19,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c5_r1",
+      "name": "mirror_matrix_c5_r1",
+      "column_net": "P6",
+      "row_net": "P8",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "c5"
+      },
+      "row": "r1",
+      "mirrored": true,
+      "bind": [
+        10,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "mirror_matrix_c5_r2": {
+    "x": 256.2,
+    "y": -127.14,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c5_r2",
+      "name": "mirror_matrix_c5_r2",
+      "column_net": "P6",
+      "row_net": "P9",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "c5"
+      },
+      "row": "r2",
+      "mirrored": true,
+      "bind": [
+        10,
+        0,
+        10,
+        10
+      ]
+    }
+  },
+  "mirror_matrix_c5_r3": {
+    "x": 256.2,
+    "y": -108.09,
+    "r": 0,
+    "meta": {
+      "stagger": -3.8100000000000005,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_c5_r3",
+      "name": "mirror_matrix_c5_r3",
+      "column_net": "P6",
+      "row_net": "P10",
+      "zone": {
+        "columns": {
+          "c1": {
+            "key": {
+              "column_net": "P2"
+            },
+            "rows": {},
+            "name": "c1"
+          },
+          "c2": {
+            "key": {
+              "stagger": "0.4U",
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "c2"
+          },
+          "c3": {
+            "key": {
+              "stagger": "0.2U",
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "c3"
+          },
+          "c4": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "c4"
+          },
+          "c5": {
+            "key": {
+              "stagger": "-0.2U",
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "c5"
+          }
+        },
+        "rows": {
+          "r1": {
+            "row_net": "P8"
+          },
+          "r2": {
+            "row_net": "P9"
+          },
+          "r3": {
+            "row_net": "P10"
+          }
+        },
+        "name": "matrix"
+      },
+      "col": {
+        "key": {
+          "stagger": "-0.2U",
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "c5"
+      },
+      "row": "r3",
+      "mirrored": true,
+      "bind": [
+        0,
+        0,
+        10,
+        10
+      ]
+    }
+  },
+  "mirror_thumb_t1_r": {
+    "x": 290.49,
+    "y": -169.05,
+    "r": 0,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": 0,
+      "origin": [
+        0,
+        0
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_t1_r",
+      "name": "mirror_thumb_t1_r",
+      "column_net": "P3",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "column_net": "P3"
+        },
+        "rows": {},
+        "name": "t1"
+      },
+      "row": "r",
+      "mirrored": true,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "mirror_thumb_t2_r": {
+    "x": 270.6460871,
+    "y": -169.91640400000003,
+    "r": 5,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": -5,
+      "origin": [
+        -9.525,
+        -9.525
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_t2_r",
+      "name": "mirror_thumb_t2_r",
+      "column_net": "P4",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "spread": "U",
+          "splay": -5,
+          "origin": [
+            "-0.5U",
+            "-0.5U"
+          ],
+          "column_net": "P4"
+        },
+        "rows": {},
+        "name": "t2"
+      },
+      "row": "r",
+      "mirrored": true,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "mirror_thumb_t3_r": {
+    "x": 250.32179609999997,
+    "y": -173.5001248,
+    "r": 15,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": -10,
+      "origin": [
+        -9.525,
+        -9.525
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_t3_r",
+      "name": "mirror_thumb_t3_r",
+      "column_net": "P5",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "spread": "U",
+          "splay": -10,
+          "origin": [
+            "-0.5U",
+            "-0.5U"
+          ],
+          "column_net": "P5"
+        },
+        "rows": {},
+        "name": "t3"
+      },
+      "row": "r",
+      "mirrored": true,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  },
+  "mirror_thumb_t4_r": {
+    "x": 230.92858339999998,
+    "y": -180.55867700000002,
+    "r": 25,
+    "meta": {
+      "stagger": 0,
+      "spread": 19.05,
+      "splay": -10,
+      "origin": [
+        -9.525,
+        -9.525
+      ],
+      "orient": 0,
+      "shift": [
+        0,
+        0
+      ],
+      "rotate": 0,
+      "adjust": {},
+      "width": 18.5,
+      "height": 18.5,
+      "padding": 19.05,
+      "autobind": 10,
+      "skip": false,
+      "asym": "both",
+      "colrow": "mirror_t4_r",
+      "name": "mirror_thumb_t4_r",
+      "column_net": "P6",
+      "row_net": "P7",
+      "zone": {
+        "columns": {
+          "t1": {
+            "key": {
+              "column_net": "P3"
+            },
+            "rows": {},
+            "name": "t1"
+          },
+          "t2": {
+            "key": {
+              "spread": "U",
+              "splay": -5,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P4"
+            },
+            "rows": {},
+            "name": "t2"
+          },
+          "t3": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P5"
+            },
+            "rows": {},
+            "name": "t3"
+          },
+          "t4": {
+            "key": {
+              "spread": "U",
+              "splay": -10,
+              "origin": [
+                "-0.5U",
+                "-0.5U"
+              ],
+              "column_net": "P6"
+            },
+            "rows": {},
+            "name": "t4"
+          }
+        },
+        "rows": {
+          "r": {
+            "row_net": "P7"
+          }
+        },
+        "name": "thumb"
+      },
+      "col": {
+        "key": {
+          "spread": "U",
+          "splay": -10,
+          "origin": [
+            "-0.5U",
+            "-0.5U"
+          ],
+          "column_net": "P6"
+        },
+        "rows": {},
+        "name": "t4"
+      },
+      "row": "r",
+      "mirrored": true,
+      "bind": [
+        0,
+        0,
+        0,
+        0
+      ]
+    }
+  }
+}
